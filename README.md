@@ -6,10 +6,9 @@ This is a **Teaching Assistant AI Agent** designed to help:
 - Students: get summaries, analyze code, and track work.
 
 ### How to set it up:
-1. Open Google Colab  
-2. Install google-generativeai  
-3. Add your Gemini API key  
-4. Run all cells in order  
+1. Open Google Colab   
+2. Add your API KEY  
+3. Run all cells in order  
 
 ### How to use:
 Type requests such as:
